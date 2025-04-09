@@ -11,8 +11,8 @@
  ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedester321&show_icons=true&theme=vision-friendly-dark" alt="Pedro's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedester321&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="355" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fioravante-dev&show_icons=true&theme=vision-friendly-dark" alt="Pedro's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fioravante-dev&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="355" alt="Top Languages" />
 </p>
 
 ## 🛠️ My Current Tech Stack
