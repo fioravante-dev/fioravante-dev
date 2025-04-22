@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 - 👨‍💻 **Fullstack Dev** in the making.
-- 🔭 Currently working on **React Native projects and cross-platform development**.
+- 🔭 Currently working on **React Native projects, cross-platform development and on Node.js Backends**.
 - 👯 Open to collaborate on **open-source** or **mobile app development** projects.
 - 💬 Ask me about:  ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![UI/UX Design](https://img.shields.io/badge/-UI%2FUX%20Design-0D1117?logo=figma&logoColor=white)
 
