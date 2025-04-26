@@ -1,6 +1,6 @@
 ![img](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Hello,%20World!&textBg=false&animation=scaleIn&fontAlign=50)
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20"/>  I'm Pedro Castro and this is my GitHub!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20"/>
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20"/>  I'm Pedro Fioravante and this is my GitHub!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20"/>
 
 ### 🚀 About Me
 - 👨‍💻 **Fullstack Dev** in the making.
