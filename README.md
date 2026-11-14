@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg">
-  <img src="assets/light/header.svg" width="100%" alt="Pedro Fioravante — AI Engineer: LLM agents, vision and speech, full-stack. Open to full-time and contract roles, remote.">
+  <img src="assets/light/header.svg" width="100%" alt="Pedro Fioravante — AI Engineer: LLM agents, vision and speech, full-stack.">
 </picture>
 
 <p>
@@ -36,7 +36,7 @@ I build software that does real work: **LLM agents** that act on codebases and d
 
 ## Built for clients
 
-Private code, production systems. Happy to walk through either one in an interview.
+Private code, production systems. Happy to walk through either one.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-clinic.svg"><img src="assets/light/card-clinic.svg" width="418" alt="Clinic scheduling SaaS: multi-tenant calendar, patient records with audit trail, per-role permissions. Next.js, Supabase RLS, R2, PWA."></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-attendance.svg"><img src="assets/light/card-attendance.svg" width="418" alt="Attendance PWA: factory-floor attendance that works offline and enforces weekly rest-day rules. Next.js, IndexedDB, Supabase, TDD."></picture>
