@@ -4,6 +4,7 @@
 </picture>
 
 <p>
+  <a href="https://fioravante.dev.br"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/website.svg"><img src="assets/light/website.svg" height="40" alt="Website: fioravante.dev.br"></picture></a>
   <a href="https://www.linkedin.com/in/fioravante-dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/linkedin.svg"><img src="assets/light/linkedin.svg" height="40" alt="LinkedIn"></picture></a>
   <a href="mailto:pedrocfioravante95+gitpage@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/email.svg"><img src="assets/light/email.svg" height="40" alt="Email"></picture></a>
 </p>
@@ -28,6 +29,8 @@ I build software that does real work: **LLM agents** that act on codebases and d
 </table>
 
 ## Open source
+
+My portfolio, [fioravante.dev.br](https://fioravante.dev.br), is one Rust binary served from an Android phone on my desk, with the phone's live CPU, temperature and battery on the page. Try `curl -s fioravante.dev.br` in a terminal.
 
 <a href="https://github.com/fioravante-dev/talk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-talk.svg"><img src="assets/light/card-talk.svg" width="418" alt="talk: local voice dictation for Linux and Windows, Whisper on the GPU. Rust, whisper.cpp, CUDA."></picture></a>
 <a href="https://github.com/fioravante-dev/op2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-op2.svg"><img src="assets/light/card-op2.svg" width="418" alt="op2: applies runes, spells and item sets in the League of Legends client. Rust."></picture></a>
